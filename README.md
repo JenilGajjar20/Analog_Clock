@@ -14,6 +14,7 @@ The Date object is used to work with dates and times.<br>
 Date objects are created with <b>new Date()</b>.
 
 ## Date Object Methods
+Click <a href="https://www.w3schools.com/jsref/jsref_obj_date.asp">here</a> to have a look at all the <b>JavaScript Date Methods</b>.<br>
 Methods which I have used here: <b>getHours()</b>, <b>getMinutes()</b> and <b>getSeconds()</b>.<br>
 
 ### getHours()
