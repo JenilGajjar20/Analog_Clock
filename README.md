@@ -45,4 +45,4 @@ defines a transformation that rotates an element around the z-axis without defor
 The amount of rotation created by <b>rotateZ()</b> is specified by an <b><angle></b>. If positive, the movement will be clockwise; if negative, it will be counter-clockwise.
 
 
-Here is the link to see it live: https://jenilgajjar20.github.io/JS_Clock/ 
+Here is the link to see it live: https://jenilgajjar20.github.io/Analog_Clock/ 
